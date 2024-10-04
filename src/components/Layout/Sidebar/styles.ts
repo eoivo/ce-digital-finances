@@ -25,7 +25,11 @@ export const Header = styled.div`
   overflow: hidden;
 `;
 
-export const HeaderLogo = styled.img``;
+export const HeaderLogo = styled.img`
+  width: 150px; 
+  margin-left: -20px;
+  height: auto; 
+`;
 
 export const HeaderIcon = styled(GiHamburgerMenu)`
   font-size: ${(props) => props.theme.FONT_SIZES.md};

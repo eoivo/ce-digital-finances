@@ -46,7 +46,7 @@ export const Sidebar = () => {
       <Header>
         {isExpanded && (
           <Link to="/">
-            <HeaderLogo src="/logo.png" alt="Logo Image" />
+            <HeaderLogo src="/logo_ce.png" alt="Logo Image" />
           </Link>
         )}
 
