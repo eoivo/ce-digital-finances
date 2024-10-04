@@ -16,13 +16,13 @@
 
 ## 🌐 Demo
 
-<a href="https://grf-finances.netlify.app/" target="_blank">
-    <img src="./public/GRF%20Demo.jpg" alt="CE Digital Finanças" width="600" />
+<a href="https://ce-digital-finances.netlify.app/" target="_blank">
+    <img src="./public/demo.jpg" alt="CE Digital Finanças" width="600" />
 </a>
 
 O projeto está disponível para visualização no seguinte link:
 
-[CE Digital Finanças](https://grf-finances.netlify.app/)
+[CE Digital Finanças](https://ce-digital-finances.netlify.app/)
 
 ## 📚 Funcionalidades
 
