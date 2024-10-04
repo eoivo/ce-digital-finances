@@ -14,6 +14,12 @@
 - **React-Icons**
 - **React-Spinners**
 
+## 🌐 Demo
+
+O projeto está disponível para visualização no seguinte link:
+
+[![GRF Finanças](./public/GRF%20Demo.jpg)](https://grf-finances.netlify.app/)
+
 ## 📚 Funcionalidades
 
 - Adicionar, editar e remover transações.
@@ -70,5 +76,5 @@ http://localhost:5173
 
 ## 🧑‍💻 Autor
 
-**Ivo Fernandes**  
+**Ivo Fenrnades**  
 [LinkedIn](https://linkedin.com/in/ivo-dev/) | [GitHub](https://github.com/eoivo)
