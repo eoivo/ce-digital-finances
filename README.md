@@ -1,6 +1,6 @@
-# GRF Finanças
+# CE Digital Finanças
 
-**GRF Finanças** é um projeto de controle de finanças desenvolvido durante o curso **ReactJS 18 com TypeScript + Projetos - Do Básico ao Avançado**, da **GRF Cursos**. O sistema permite gerenciar suas transações financeiras de forma prática e eficiente.
+**CE Digital Finanças** é um projeto de controle de finanças desenvolvido durante o curso **ReactJS 18 com TypeScript + Projetos - Do Básico ao Avançado**, da **GRF Cursos**. O sistema permite gerenciar suas transações financeiras de forma prática e eficiente.
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -17,12 +17,12 @@
 ## 🌐 Demo
 
 <a href="https://grf-finances.netlify.app/" target="_blank">
-    <img src="./public/GRF%20Demo.jpg" alt="GRF Finanças" width="600" />
+    <img src="./public/GRF%20Demo.jpg" alt="CE Digital Finanças" width="600" />
 </a>
 
 O projeto está disponível para visualização no seguinte link:
 
-[GRF Finanças](https://grf-finances.netlify.app/)
+[CE Digital Finanças](https://grf-finances.netlify.app/)
 
 ## 📚 Funcionalidades
 
@@ -36,13 +36,13 @@ O projeto está disponível para visualização no seguinte link:
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/eoivo/grf-finances
+git clone https://github.com/eoivo/ce-digital-finances
 ```
 
 2. Acesse a pasta do projeto:
 
 ```bash
-cd grf-finances
+cd ce-digital-finances
 ```
 
 3. Instale as dependências:
