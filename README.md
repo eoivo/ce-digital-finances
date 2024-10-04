@@ -16,9 +16,13 @@
 
 ## 🌐 Demo
 
+<a href="https://grf-finances.netlify.app/" target="_blank">
+    <img src="./public/GRF%20Demo.jpg" alt="GRF Finanças" width="600" />
+</a>
+
 O projeto está disponível para visualização no seguinte link:
 
-[![GRF Finanças](./public/GRF%20Demo.jpg)](https://grf-finances.netlify.app/)
+[GRF Finanças](https://grf-finances.netlify.app/)
 
 ## 📚 Funcionalidades
 
