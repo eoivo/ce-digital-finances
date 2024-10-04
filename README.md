@@ -1,50 +1,74 @@
-# React + TypeScript + Vite
+# GRF Finanças
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**GRF Finanças** é um projeto de controle de finanças desenvolvido durante o curso **ReactJS 18 com TypeScript + Projetos - Do Básico ao Avançado**, da **GRF Cursos**. O sistema permite gerenciar suas transações financeiras de forma prática e eficiente.
 
-Currently, two official plugins are available:
+## 🚀 Tecnologias Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **ReactJS**
+- **TypeScript**
+- **Vite**
+- **React-Router**
+- **Axios**
+- **React-Redux**
+- **Styled-Components**
+- **React-Icons**
+- **React-Spinners**
 
-## Expanding the ESLint configuration
+## 📚 Funcionalidades
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+- Adicionar, editar e remover transações.
+- Visualizar relatórios financeiros.
+- Filtros por data, tipo de transação e valor.
+- Interface amigável e responsiva.
 
-- Configure the top-level `parserOptions` property like this:
+## 🛠️ Instalação
 
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/eoivo/grf-finances
 ```
 
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
+2. Acesse a pasta do projeto:
 
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
-
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
+```bash
+cd grf-finances
 ```
+
+3. Instale as dependências:
+
+```bash
+npm install
+```
+
+4. Inicie o projeto:
+
+```bash
+npm run dev
+```
+
+5. Acesse no navegador:
+
+```
+http://localhost:5173
+```
+
+## 📝 Como Usar
+
+- Navegue pelas páginas usando o **React-Router**.
+- Adicione transações, visualize relatórios e filtre por diferentes critérios.
+- Gerenciamento de estado global feito com **React-Redux**.
+- Os estilos são aplicados usando **Styled-Components**.
+
+## 🤝 Contribuição
+
+1. Faça um fork do repositório.
+2. Crie uma nova branch (`git checkout -b feature/nova-funcionalidade`).
+3. Faça as alterações e commit (`git commit -m 'Adiciona nova funcionalidade'`).
+4. Faça push para a branch criada (`git push origin feature/nova-funcionalidade`).
+5. Abra um Pull Request.
+
+## 🧑‍💻 Autor
+
+**Ivo Fernandes**  
+[LinkedIn](https://linkedin.com/in/ivo-dev/) | [GitHub](https://github.com/eoivo)
