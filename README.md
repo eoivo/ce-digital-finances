@@ -77,8 +77,3 @@ http://localhost:5173
 3. Faça as alterações e commit (`git commit -m 'Adiciona nova funcionalidade'`).
 4. Faça push para a branch criada (`git push origin feature/nova-funcionalidade`).
 5. Abra um Pull Request.
-
-## 🧑‍💻 Autor
-
-**Ivo Fenrnades**  
-[LinkedIn](https://linkedin.com/in/ivo-dev/) | [GitHub](https://github.com/eoivo)
